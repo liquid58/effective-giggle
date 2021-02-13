@@ -65,8 +65,10 @@ footer{
  @keyframes ani2{
   from{margin-left:100%;}
 }
-footer h2{
+footer span{
   animation:ani3 5s infinite;
+  font-size:20px;
+  font-weight:bold;
   }
  @keyframes ani3 {to{
     margin-left: 100%;
